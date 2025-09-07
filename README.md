@@ -1,4 +1,6 @@
 # WebAgent AI - URL Content Summarizer
+## Demo
+Watch the demo video on YouTube: [Fashion MNIST CNN Web App Demo](https://youtu.be/gcMWZsxobgA)
 
 ## Overview
 WebAgent AI is a modern web application that summarizes the content of any public web page using advanced language models. Built with Streamlit and the pydantic-ai framework, it provides a simple interface for users to extract concise summaries from articles, blogs, documentation, and more.
