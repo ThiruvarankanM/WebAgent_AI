@@ -12,13 +12,6 @@ WebAgent AI is a modern web application that summarizes the content of any publi
 - Easy-to-use web interface built with Streamlit
 - Environment-based configuration for secure API key management
 
-  ## Features
-- Summarize content from any public URL
-- Utilizes state-of-the-art LLMs via the pydantic-ai framework
-- Asynchronous processing for fast and responsive summaries
-- Easy-to-use web interface built with Streamlit
-- Environment-based configuration for secure API key management
-
 ## Tech Stack
 - **Python 3.10+**
 - **Streamlit**: For the web application interface
